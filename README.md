@@ -14,4 +14,4 @@ F1-Score
 Logistic Regression is preferred because it is simple, interpretable, and performs well for binary classification problems. In many implementations, it achieves around 90–97% accuracy, making it a reliable baseline model for breast cancer prediction.
 
 I was able to do a project in ML thanks to CodeAlpha for the guidance
-By SEELAM SULOCHANA
+Author - SEELAM SULOCHANA
